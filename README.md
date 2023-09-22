@@ -86,4 +86,3 @@ Thank you for considering contributing to GDSC JH! We look forward to collaborat
 
 ---
 
-Feel free to customize this README to fit the specific needs and structure of your GDSC JH website project on GitHub. Make sure to include accurate and up-to-date information about your project, contribution guidelines, and any other relevant details.
