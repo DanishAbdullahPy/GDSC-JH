@@ -2,7 +2,7 @@
 
 
 
-![GDSC JH Logo]()
+![GDSC JH Logo]( GDSCJH_form2.png)
 
 
 Welcome to the GDSC JH Website repository! We are excited that you are interested in contributing to our project.
@@ -11,9 +11,9 @@ Welcome to the GDSC JH Website repository! We are excited that you are intereste
 
 The Google Developer Student Clubs (GDSC) at Johns Hopkins University is a community-driven group aimed at helping students learn about Google technologies. Our website is a central hub for information about our events, projects, and resources.
 
-- **Website:** [https://www.gdscjh.com](https://www.gdscjh.com)
+
 - **GDSC JH Chapter:** [Learn more](https://gdsc.community.dev/johns-hopkins-university/)
-- **Join us:** [Become a member](https://gdsc.community.dev/johns-hopkins-university/join/)
+- **Join us:** [Become a member](https://chat.whatsapp.com/L8A42CGUScQHOLv9zAJudP)
 
 ## Contributing
 
