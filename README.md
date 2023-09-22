@@ -2,7 +2,8 @@
 
 
 
-[GDSC JH Logo] ("C:\Users\legion\Desktop\GDSCJH_form2.png")
+![GDSC JH Logo]()
+
 
 Welcome to the GDSC JH Website repository! We are excited that you are interested in contributing to our project.
 
